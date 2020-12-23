@@ -3,4 +3,4 @@
 Olá! Seja bem vindo ao livro de receitas, veja as receitas disponíveis:
 
 - Pizza marguerita
-- Pavê
+- Pavê natalino de chocolate 
